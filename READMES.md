@@ -1,6 +1,6 @@
 # NineAIdeploy
 
-[NineAI 源码包详细部署教程](https://github.com/feifei985/NineAIdeploy/blob/main/READMES.md)
+[NineAI 原版整合包部署教程](https://github.com/feifei985/NineAIdeploy/blob/main/README.md)
 
 ## 环境准备
 
