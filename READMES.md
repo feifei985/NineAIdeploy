@@ -1,6 +1,14 @@
 # NineAIdeploy
 
-NineAI 源码包详细部署教程
+[NineAI 源码包详细部署教程](https://github.com/feifei985/NineAIdeploy/blob/main/READMES.md)
+
+### 系统演示
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/weixin/qun.JPG?raw=true" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/weixin/qun.JPG?raw=true" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/weixin/qun.JPG?raw=true" alt="PHP学习网">
 
 ## 环境准备
 
