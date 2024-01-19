@@ -6,6 +6,18 @@ NineAI 源码包详细部署教程
 
 版本库中是原版的整合包，下面是整合包的安装教程，上面是源码包的安装教程
 
+### 系统演示
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/nineai/01.png" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/nineai/02.png" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/nineai/03.png" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/nineai/04.png" alt="PHP学习网">
+
+<img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/nineai/05.png" alt="PHP学习网">
+
 ## 环境准备
 
 1. **安装Node.js环境**
